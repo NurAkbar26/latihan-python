@@ -33,6 +33,11 @@ b=input("masukan nilai b:")
 print("Variable a=",a)
 print("Variable b=",b)
 
+kemudian push ke git
+![Screenshot (28)](https://user-images.githubusercontent.com/115671335/198172946-d13f85ad-00de-4e94-a8b9-716dde1282a0.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/115671335/198172953-089ead00-084e-4771-bb8c-3678e2be49f2.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/115671335/198172957-b06f6069-0275-4188-9969-ca7d4fad4316.png)
+
 # cetak hasil operasi kedua variable dengan String format
 print("Hasil penggabung {1}&{0}=%d".format(a,b) %(a&b))
 
